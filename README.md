@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Jain</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijjan&label=Profile%20views&color=0e75b6&style=plastic" alt="kshitijjan" /> </p>
