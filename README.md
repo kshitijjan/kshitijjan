@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **E-commerce dropshipping website**
 
-- 🌱 I’m currently learning **Javascript and Data Structure & Algorithms**
+- 🌱 I’m currently learning **JavaScript and Data Structures & Algorithms**
 
-- 📫 How to reach me **kshitiz.jain636@gmail.com**
+- 📫 Reach me at **kshitiz.jain636@gmail.com**
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
